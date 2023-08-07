@@ -1,0 +1,30 @@
+﻿@model Proyecto3.Models.Entities.Reserva
+
+<h1>Crear Reserva</h1>
+
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+	<div class="form-group">
+		<label asp-for="NumeroReserva">Número de Reserva</label>
+		<input asp-for="NumeroReserva" class="form-control" readonly />
+	</div>
+	<div class="form-group">
+		<label asp-for="FechaHoraReserva">Fecha y Hora de Reserva</label>
+		<input asp-for="FechaHoraReserva" class="form-control" type="datetime-local" value="@DateTime.Now.ToString("yyyy-MM-ddTHH:mm:ss.000")" required />
+	</div>
+	<div class="form-group">
+		<label asp-for="NombreCliente">Nombre del Cliente</label>
+		<select asp-for="NombreCliente" asp-items="@(new SelectList(ViewBag.Clientes))" class="form-control">
+			<option value="">Seleccione un cliente</option>
+		</select>
+	</div>
+
+
+	<div class="form-group">
+		<label asp-for="NumPersonas">Número de Personas</label>
+		<input asp-for="NumPersonas" class="form-control" />
+	</div>
+	<div class="text-center mt-3">
+		<button type="submit" class="btn btn-primary mr-2">Guardar</button>
+		<a class="btn btn-secondary" asp-action="Index">Volver</a>
+	</div>
+</form>

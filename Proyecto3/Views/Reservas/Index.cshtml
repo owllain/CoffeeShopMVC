@@ -1,0 +1,32 @@
+﻿@model List<Proyecto3.Models.Entities.Reserva>
+
+<h1>Lista de Reservas</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Número de Reserva</th>
+            <th>Fecha y Hora de Reserva</th>
+            <th>Nombre del Cliente</th>
+            <th>Número de Personas</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var reserva in Model)
+        {
+            <tr>
+                <td>@reserva.NumeroReserva</td>
+                <td>@reserva.FechaHoraReserva</td>
+                <td>@reserva.NombreCliente</td>
+                <td>@reserva.NumPersonas</td>
+                <td>
+                    <a class="btn btn-primary" asp-controller="Reservas" asp-action="Edit" asp-route-numeroReserva="@reserva.NumeroReserva">Editar</a>
+                    <a class="btn btn-danger" asp-controller="Reservas" asp-action="Delete" asp-route-numeroReserva="@reserva.NumeroReserva">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Crear Reserva</a>

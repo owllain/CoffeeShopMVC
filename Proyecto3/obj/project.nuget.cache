@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZQ9LEMN/UtMgwLSw77i8RhLJB2wpLY/WAvwBVpNnkZ1XbHzpijZdvvH58484hNoksjpZpxrDsyEtLlH0P6IJTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tvlin\\OneDrive\\Documentos\\UNED\\2023\\Segundo Cuatrimestre\\Fundamentos de programación web\\Trabajos\\Proyecto3\\Proyecto3\\Proyecto3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tvlin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\tvlin\\.nuget\\packages\\sixlabors.imagesharp\\3.0.1\\sixlabors.imagesharp.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

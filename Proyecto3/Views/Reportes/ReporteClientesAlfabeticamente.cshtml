@@ -1,0 +1,30 @@
+﻿@model List<Proyecto3.Models.Entities.Cliente>
+
+<h1>Reporte de Clientes</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Email</th>
+            <th>Privilegio</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cliente in Model.OrderBy(c => c.Nombre))
+        {
+            <tr>
+                <td>@cliente.ID</td>
+                <td>@cliente.Nombre</td>
+                <td>@cliente.Apellido</td>
+                <td>@cliente.Email</td>
+                <td>@cliente.Privilegio</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a class="btn btn-secondary" asp-action="Index">Volver</a>

@@ -1,0 +1,49 @@
+﻿@model List<Proyecto3.Models.Entities.Plato>
+
+@{
+    ViewData["Title"] = "Platos";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Descripción</th>
+            <th>Precio</th>
+            <th>Categoría</th>
+            <th>Imagen</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var plato in Model)
+        {
+            <tr>
+                <td>@plato.ID</td>
+                <td>@plato.Nombre</td>
+                <td>@plato.Descripcion</td>
+                <td>@plato.Precio</td>
+                <td>@plato.Categoria</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(plato.ImagenBase64))
+                    {
+                        <img src="@plato.ImagenBase64" alt="Imagen del plato" style="max-width: 100px; max-height: 100px;" />
+                    }
+                    else
+                    {
+                        <span>Imagen no disponible</span>
+                    }
+                </td>
+                <td>
+                    <a class="btn btn-primary" asp-controller="Platos" asp-action="Edit" asp-route-id="@plato.ID">Editar</a>
+                    <a class="btn btn-danger" asp-controller="Platos" asp-action="Delete" asp-route-id="@plato.ID">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a class="btn btn-primary" asp-controller="Platos" asp-action="Create">Agregar</a>

@@ -1,0 +1,55 @@
+﻿@model Proyecto3.Models.Entities.Venta
+
+@{
+    ViewData["Title"] = "Editar Venta";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <h4>Información actual</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-3">Número de Orden:</dt>
+            <dd class="col-sm-9">@Model.NumeroOrden</dd>
+
+            <dt class="col-sm-3">Fecha y Hora de Venta:</dt>
+            <dd class="col-sm-9">@Model.FechaHoraVenta</dd>
+
+            <dt class="col-sm-3">Nombre del Plato Vendido:</dt>
+            <dd class="col-sm-9">@Model.NombrePlatoVendido</dd>
+
+            <dt class="col-sm-3">Cantidad Vendida:</dt>
+            <dd class="col-sm-9">@Model.CantidadVendida</dd>
+        </dl>
+    </div>
+    <div class="col-md-6">
+        <h4>Nueva información</h4>
+        <hr />
+        <form asp-action="Edit" method="post" enctype="multipart/form-data">
+            <input type="hidden" asp-for="NumeroOrden" />
+
+            <div class="form-group">
+                <label asp-for="FechaHoraVenta">Fecha y Hora de Venta</label>
+                <input asp-for="FechaHoraVenta" class="form-control" type="datetime-local" value="@DateTime.Now.ToString("yyyy-MM-ddTHH:mm:ss.000")" required />
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NombrePlatoVendido" class="control-label">Nombre del Plato Vendido:</label>
+                <select asp-for="NombrePlatoVendido" asp-items="@(new SelectList(ViewBag.Platos, "Nombre", "Nombre", Model.NombrePlatoVendido))" class="form-control">
+                    <option value="">Seleccione un plato</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="CantidadVendida" class="control-label">Cantidad Vendida:</label>
+                <input asp-for="CantidadVendida" class="form-control" required>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Guardar cambios" class="btn btn-primary" />
+                <a class="btn btn-secondary" asp-controller="Ventas" asp-action="Index">Volver</a>
+            </div>
+        </form>
+    </div>
+</div>

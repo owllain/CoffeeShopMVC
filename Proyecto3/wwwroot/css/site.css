@@ -1,0 +1,149 @@
+/* Estilos generales */
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+    background-color: #f9f5e8; /* Fondo en tono vainilla */
+}
+
+body {
+    margin-bottom: 60px;
+    font-family: 'Roboto', sans-serif; /* Fuente 'Roboto' para el texto normal */
+    background-color: #f9f5e8; /* Color vainilla */
+}
+
+/* Estilos para encabezados */
+h1, h2, h3 {
+    font-family: 'Abril Fatface', cursive; /* Fuente 'Abril Fatface' para los encabezados */
+    color: #4a2e0a; /* Color café oscuro para los encabezados */
+}
+
+header {
+    background-color: rgba(252, 239, 216, 0.8); /* Color vainilla claro con opacidad al 80% para el fondo del encabezado */
+    padding: 10px;
+}
+
+.navbar-brand {
+    font-size: 24px; /* Aumenta el tamaño del texto del encabezado */
+}
+
+.navbar-nav .nav-link {
+    font-size: 18px; /* Aumenta el tamaño del texto de los enlaces del encabezado */
+    margin-right: 10px; /* Agrega un espacio entre los enlaces del encabezado */
+}
+
+
+/* Estilos para el footer */
+footer {
+    position: absolute;
+    bottom: 5px;
+    width: 100%;
+    padding: 0 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: #795548; /* Color café claro para el fondo del footer */
+    color: #ffffff; /* Color blanco para el texto del footer */
+}
+
+.carousel-item {
+    height: 400px; /* Ajusta la altura del carrusel según tus necesidades */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.carousel-inner {
+    background-color: rgba(252, 239, 216, 0.05); /* Color vainilla claro con opacidad al 5% para el fondo del carrusel */
+}
+
+.carousel-caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Color de fondo semi-transparente para el texto */
+    color: #fff; /* Color del texto en el carrusel */
+    padding: 20px;
+}
+
+
+
+.carousel-item img {
+    object-fit: cover;
+    height: 400px;
+    width: 400px;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: black; /* Cambia el color de fondo de las flechas */
+    border-radius: 50%; /* Aplica un borde redondeado a las flechas */
+    height: 30px; /* Ajusta la altura de las flechas según tus necesidades */
+    width: 30px; /* Ajusta el ancho de las flechas según tus necesidades */
+}
+
+    .carousel-control-prev-icon:before,
+    .carousel-control-next-icon:before {
+        content: '';
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+
+.carousel-control-prev-icon {
+    left: 50px; /* Ajusta la posición horizontal de la flecha izquierda */
+}
+
+    .carousel-control-prev-icon:before {
+        border: solid black; /* Cambia el color de la flecha izquierda */
+        border-width: 0 2px 2px 0; /* Ajusta el tamaño y dirección de la flecha izquierda */
+        display: inline-block;
+        padding: 3px; /* Ajusta el tamaño de la flecha izquierda */
+        transform: rotate(135deg); /* Rota la flecha izquierda */
+    }
+
+.carousel-control-next-icon {
+    right: 50px; /* Ajusta la posición horizontal de la flecha derecha */
+}
+
+    .carousel-control-next-icon:before {
+        border: solid black; /* Cambia el color de la flecha derecha */
+        border-width: 0 2px 2px 0; /* Ajusta el tamaño y dirección de la flecha derecha */
+        display: inline-block;
+        padding: 3px; /* Ajusta el tamaño de la flecha derecha */
+        transform: rotate(-45deg); /* Rota la flecha derecha */
+    }
+
+
+
+.carousel-caption {
+    background: none; /* Eliminar el fondo negro del recuadro de texto */
+    color: #000; /* Color del texto en el carrusel */
+}
+
+
+
+/* Estilos para la repocard */
+.repocard {
+    width: 400px;
+    margin: 0 auto;
+    border-radius: 10px;
+    transition: transform 0.2s;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Efecto de sombra */
+}
+
+    .repocard:hover {
+        transform: scale(1.02);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Efecto de sombra al pasar el mouse por encima */
+    }

@@ -1,0 +1,30 @@
+﻿@model Proyecto3.Models.Entities.Venta
+
+<h1>Crear Venta</h1>
+
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="NumeroOrden">Número de Orden</label>
+        <input asp-for="NumeroOrden" class="form-control" readonly />
+    </div>
+    <div class="form-group">
+        <label asp-for="FechaHoraVenta">Fecha y Hora de Venta</label>
+        <input asp-for="FechaHoraVenta" class="form-control" type="datetime-local" value="@DateTime.Now.ToString("yyyy-MM-ddTHH:mm:ss.000")" required />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="NombrePlatoVendido">Nombre del Plato Vendido</label>
+        <select asp-for="NombrePlatoVendido" asp-items="@(new SelectList(ViewBag.Platos, "Nombre", "Nombre"))" class="form-control">
+            <option value="">Seleccione un plato</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label asp-for="CantidadVendida">Cantidad Vendida</label>
+        <input asp-for="CantidadVendida" class="form-control" />
+    </div>
+    <div class="text-center mt-3">
+        <button type="submit" class="btn btn-primary mr-2">Guardar</button>
+        <a class="btn btn-secondary" asp-action="Index">Volver</a>
+    </div>
+</form>
+ 

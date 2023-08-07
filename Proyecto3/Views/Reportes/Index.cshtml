@@ -1,0 +1,107 @@
+﻿@{
+    ViewData["Title"] = "Reportes";
+}
+
+<div class="container">
+    <h1 class="text-center">Reportes</h1>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Reporte de Clientes</h5>
+                    <p class="card-text">Generar un reporte con la lista de clientes ordenada alfabéticamente.</p>
+                    <a href="@Url.Action("ReporteClientesAlfabeticamente", "Reportes")" class="btn btn-primary">Ver Reporte</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Reporte de Ventas</h5>
+                    <p class="card-text">Generar un reporte con la lista de ventas ordenada por fecha.</p>
+                    <a href="@Url.Action("ReporteVentasPorFecha", "Reportes")" class="btn btn-primary">Ver Reporte</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row mt-4">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Reporte de Reservas</h5>
+                    <p class="card-text">Generar un reporte con la lista de reservas ordenada por fecha.</p>
+                    <a href="@Url.Action("ReporteReservasPorFecha", "Reportes")" class="btn btn-primary">Ver Reporte</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Reporte de Platos más Vendidos</h5>
+                    <p class="card-text">Generar un reporte con la lista de platos más vendidos.</p>
+                    <a href="@Url.Action("ReportePlatosMasVendidos", "Reportes")" class="btn btn-primary">Ver Reporte</a>
+                </div>
+            </div>
+        </div>
+    </div>
+     
+    <div class="row mt-4">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Reporte de Platos Vendidos por Mes</h5>
+                    <p class="card-text">Generar un reporte con la lista de platos más vendidos por mes.</p>
+                    <form method="get" action="@Url.Action("ReportePlatosVendidosPorMes", "Reportes")">
+                        <div class="form-group">
+                            <label for="mes">Seleccionar Mes:</label>
+                            <select class="form-control" id="mes" name="mes">
+                                <option value="1">Enero</option>
+                                <option value="2">Febrero</option>
+                                <option value="3">Marzo</option>
+                                <option value="4">Abril</option>
+                                <option value="5">Mayo</option>
+                                <option value="6">Junio</option>
+                                <option value="7">Julio</option>
+                                <option value="8">Agosto</option>
+                                <option value="9">Septiembre</option>
+                                <option value="10">Octubre</option>
+                                <option value="11">Noviembre</option>
+                                <option value="12">Diciembre</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <div class="form-check">
+                                <input type="checkbox" class="form-check-input" id="ascending" name="ascending" />
+                                <label class="form-check-label" for="ascending">Ordenar Ascendente</label>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <button type="submit" class="btn btn-primary">Ver Reporte</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Reporte de Ventas del Día</h5>
+                    <p class="card-text">Generar un reporte con la lista de ventas del día.</p>
+                    <form method="get" action="@Url.Action("ReporteVentasDelDia", "Reportes")">
+                        <div class="form-group">
+                            <label for="fecha">Seleccionar Fecha:</label>
+                            <input type="date" class="form-control" id="fecha" name="fecha" />
+                        </div>
+                        <div class="form-group">
+                            <button type="submit" class="btn btn-primary">Ver Reporte</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+</div>

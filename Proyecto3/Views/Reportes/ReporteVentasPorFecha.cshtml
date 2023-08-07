@@ -1,0 +1,27 @@
+﻿@model List<Proyecto3.Models.Entities.Venta>
+
+<h1>Reporte de Ventas por Fecha</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Número de Orden</th>
+            <th>Fecha y Hora de Venta</th>
+            <th>Nombre del Plato Vendido</th>
+            <th>Cantidad Vendida</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var venta in Model)
+        {
+            <tr>
+                <td>@venta.NumeroOrden</td>
+                <td>@venta.FechaHoraVenta</td>
+                <td>@venta.NombrePlatoVendido</td>
+                <td>@venta.CantidadVendida</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a class="btn btn-secondary" asp-action="Index">Volver</a>

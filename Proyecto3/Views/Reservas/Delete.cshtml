@@ -1,0 +1,41 @@
+﻿@model Proyecto3.Models.Entities.Reserva
+
+<h1>Eliminar Reserva</h1>
+
+<p>¿Estás seguro de que deseas eliminar la reserva?</p>
+
+<div>
+    <h4>Reserva</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NumeroReserva)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NumeroReserva)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.FechaHoraReserva)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.FechaHoraReserva)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NombreCliente)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NombreCliente)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NumPersonas)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NumPersonas)
+        </dd>
+    </dl>
+
+    <form asp-action="Delete" asp-route-numeroReserva="@Model.NumeroReserva" method="post">
+        <button type="submit" class="btn btn-danger">Eliminar</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+    </form>
+</div>

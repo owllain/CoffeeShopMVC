@@ -1,0 +1,25 @@
+﻿@model List<Proyecto3.Models.Entities.ReportePlato>
+
+<h1>Reporte de Platos Vendidos por Mes</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nombre del Plato</th>
+            <th>Cantidad Vendida</th>
+            <th>Total Recaudado</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var plato in Model)
+        {
+            <tr>
+                <td>@plato.NombrePlato</td>
+                <td>@plato.CantidadVendida</td>
+                <td>@plato.TotalRecaudado</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a class="btn btn-secondary" asp-action="Index">Volver</a>

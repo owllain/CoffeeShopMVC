@@ -1,0 +1,264 @@
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\appsettings.json
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\BaseDeDatos.exe
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\BaseDeDatos.deps.json
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\BaseDeDatos.runtimeconfig.json
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\BaseDeDatos.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\BaseDeDatos.pdb
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Humanizer.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.csproj.AssemblyReference.cache
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.AssemblyInfoInputs.cache
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.AssemblyInfo.cs
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\obj\Debug\net6.0\staticwebassets\msbuild.BaseDeDatos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\obj\Debug\net6.0\staticwebassets\msbuild.build.BaseDeDatos.props
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BaseDeDatos.props
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BaseDeDatos.props
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\obj\Debug\net6.0\scopedcss\bundle\BaseDeDatos.styles.css
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.csproj.CopyComplete
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\obj\Debug\net6.0\refint\BaseDeDatos.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.pdb
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.genruntimeconfig.cache
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\BaseDeDatos\obj\Debug\net6.0\ref\BaseDeDatos.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\appsettings.json
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\BaseDeDatos.exe
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\BaseDeDatos.deps.json
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\BaseDeDatos.runtimeconfig.json
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\BaseDeDatos.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\BaseDeDatos.pdb
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Humanizer.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.csproj.AssemblyReference.cache
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.AssemblyInfoInputs.cache
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.AssemblyInfo.cs
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\obj\Debug\net6.0\staticwebassets\msbuild.BaseDeDatos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\obj\Debug\net6.0\staticwebassets\msbuild.build.BaseDeDatos.props
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BaseDeDatos.props
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BaseDeDatos.props
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\obj\Debug\net6.0\scopedcss\bundle\BaseDeDatos.styles.css
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.csproj.CopyComplete
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\obj\Debug\net6.0\refint\BaseDeDatos.dll
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.pdb
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.genruntimeconfig.cache
+C:\Users\0116260532\Desktop\Proyecto3\BaseDeDatos\obj\Debug\net6.0\ref\BaseDeDatos.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\appsettings.Development.json
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\appsettings.json
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\BaseDeDatos.exe
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\BaseDeDatos.deps.json
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\BaseDeDatos.runtimeconfig.json
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\BaseDeDatos.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\BaseDeDatos.pdb
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Azure.Core.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Azure.Identity.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Humanizer.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Mono.TextTemplating.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Newtonsoft.Json.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.CodeDom.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.Drawing.Common.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.Memory.Data.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.Runtime.Caching.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.Security.Permissions.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.Text.Json.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\System.Windows.Extensions.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+Z:\Proyecto3\BaseDeDatos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+Z:\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.csproj.AssemblyReference.cache
+Z:\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.AssemblyInfoInputs.cache
+Z:\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.AssemblyInfo.cs
+Z:\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.csproj.CoreCompileInputs.cache
+Z:\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.MvcApplicationPartsAssemblyInfo.cs
+Z:\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.MvcApplicationPartsAssemblyInfo.cache
+Z:\Proyecto3\BaseDeDatos\obj\Debug\net6.0\staticwebassets\msbuild.BaseDeDatos.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\Proyecto3\BaseDeDatos\obj\Debug\net6.0\staticwebassets\msbuild.build.BaseDeDatos.props
+Z:\Proyecto3\BaseDeDatos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BaseDeDatos.props
+Z:\Proyecto3\BaseDeDatos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BaseDeDatos.props
+Z:\Proyecto3\BaseDeDatos\obj\Debug\net6.0\staticwebassets.pack.json
+Z:\Proyecto3\BaseDeDatos\obj\Debug\net6.0\staticwebassets.build.json
+Z:\Proyecto3\BaseDeDatos\obj\Debug\net6.0\staticwebassets.development.json
+Z:\Proyecto3\BaseDeDatos\obj\Debug\net6.0\scopedcss\bundle\BaseDeDatos.styles.css
+Z:\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.csproj.CopyComplete
+Z:\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.dll
+Z:\Proyecto3\BaseDeDatos\obj\Debug\net6.0\refint\BaseDeDatos.dll
+Z:\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.pdb
+Z:\Proyecto3\BaseDeDatos\obj\Debug\net6.0\BaseDeDatos.genruntimeconfig.cache
+Z:\Proyecto3\BaseDeDatos\obj\Debug\net6.0\ref\BaseDeDatos.dll

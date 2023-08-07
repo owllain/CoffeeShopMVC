@@ -1,0 +1,27 @@
+﻿@model List<Proyecto3.Models.Entities.Reserva>
+
+<h1>Reporte de Reservas por Fecha</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Número de Reserva</th>
+            <th>Fecha y Hora de Reserva</th>
+            <th>Nombre del Cliente</th>
+            <th>Número de Personas</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var reserva in Model)
+        {
+            <tr>
+                <td>@reserva.NumeroReserva</td>
+                <td>@reserva.FechaHoraReserva</td>
+                <td>@reserva.NombreCliente</td>
+                <td>@reserva.NumPersonas</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a class="btn btn-secondary" asp-action="Index">Volver</a>

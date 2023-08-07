@@ -1,0 +1,61 @@
+﻿@model Proyecto3.Models.Entities.Cliente
+
+@{
+    ViewData["Title"] = "Editar Cliente";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <h4>Información actual</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-3">ID:</dt>
+            <dd class="col-sm-9">@Model.ID</dd>
+
+            <dt class="col-sm-3">Nombre:</dt>
+            <dd class="col-sm-9">@Model.Nombre</dd>
+
+            <dt class="col-sm-3">Apellido:</dt>
+            <dd class="col-sm-9">@Model.Apellido</dd>
+
+            <dt class="col-sm-3">Email:</dt>
+            <dd class="col-sm-9">@Model.Email</dd>
+
+            <dt class="col-sm-3">Privilegio actual:</dt>
+            <dd class="col-sm-9">@Model.Privilegio</dd>
+        </dl>
+    </div>
+    <div class="col-md-6">
+        <h4>Nueva información</h4>
+        <hr />
+        <form asp-action="Edit" method="post" enctype="multipart/form-data">
+            <input type="hidden" asp-for="ID" />
+
+            <div class="form-group">
+                <label asp-for="Nombre" class="control-label">Nombre:</label>
+                <input asp-for="Nombre" class="form-control" required>
+            </div>
+            <div class="form-group">
+                <label asp-for="Apellido" class="control-label">Apellido:</label>
+                <input asp-for="Apellido" class="form-control" required>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label">Email:</label>
+                <input asp-for="Email" class="form-control" required>
+            </div>
+            <div class="form-group">
+                <label asp-for="Privilegio" class="control-label">Privilegio:</label>
+                <select asp-for="Privilegio" class="form-control" required>
+                    <option value="Usuario">Usuario</option>
+                    <option value="Administrador">Administrador</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Guardar cambios" class="btn btn-primary" />
+                <a class="btn btn-secondary" asp-controller="Clientes" asp-action="Index">Volver</a>
+            </div>
+        </form>
+    </div>
+</div>

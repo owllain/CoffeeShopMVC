@@ -1,0 +1,93 @@
+﻿@{
+    ViewData["Title"] = "FAQ";
+}
+
+<h1>@ViewData["Title"]</h1>
+<div class="faq-container">
+    <!-- Proyecto 1 -->
+    <div class="card mb-3">
+        <div class="card-header">
+            <h2>Proyecto 1</h2>
+        </div>
+        <div class="card-body">
+            <p>
+                En este proyecto se debe utilizar la herramienta de desarrollo Visual Studio y el lenguaje de programación C#.
+                El proyecto es una aplicación web con el patrón de diseño MVC (Modelo-Vista-Controlador) y orientado a objetos (POO).
+                Los datos serán almacenados en variables de aplicación, no se utilizará una base de datos.
+                Se recomienda el uso de caché para mejorar el rendimiento de la aplicación.
+                Si se utiliza otro software para implementar el proyecto, la calificación máxima será de 20 puntos sobre 100.
+                Si el proyecto no se puede ejecutar en la máquina virtual, no compila o presenta errores que impiden utilizar las funcionalidades principales, la calificación máxima será de 20 puntos sobre 100.
+            </p>
+            <h3>Requerimientos del sistema:</h3>
+            <ol>
+                <li>El sistema debe permitir agregar, modificar y eliminar platos del menú.</li>
+                <li>El sistema debe llevar un registro de las ventas realizadas.</li>
+                <li>El sistema debe permitir a los clientes realizar reservas en línea.</li>
+            </ol>
+            <!-- Agregar más detalles y requerimientos del Proyecto 1 aquí -->
+        </div>
+    </div>
+
+    <!-- Proyecto 2 -->
+    <div class="card mb-3">
+        <div class="card-header">
+            <h2>Proyecto 2</h2>
+        </div>
+        <div class="card-body">
+            <p>
+                En este proyecto se debe utilizar la herramienta de desarrollo Visual Studio y el lenguaje de programación C#.
+                El proyecto es una aplicación web con el patrón de diseño MVC. En esta fase, se incorporará la integración de servicios web API a través de la aplicación web.
+                Se requiere el uso de programación orientada a objetos, donde los objetos serán utilizados como parámetros en los métodos.
+                Los datos aún no se almacenarán en una base de datos.
+                Si se utiliza otro software para implementar el proyecto, la calificación máxima será de 20 puntos sobre 100.
+                Si el proyecto no se puede ejecutar en la máquina virtual, no compila o presenta errores que impiden utilizar las funcionalidades principales, la calificación máxima será de 20 puntos sobre 100.
+            </p>
+            <p>
+                El sistema implementará servicios RESTful y agregará nuevas funcionalidades al sitio web. A continuación se detallan los requerimientos:
+            </p>
+            <ol>
+                <li>Existirá un servicio RESTful llamado "Clientes" con todas las operaciones relacionadas con los clientes. El sistema deberá tener al menos 1 cliente por defecto, que será el administrador. Además, se agregará un campo para indicar si el usuario es administrador. Los métodos necesarios para este servicio deben incluir todas las operaciones del CRUD.</li>
+                <li>Existirá un servicio RESTful llamado "Ventas" con todas las operaciones relacionadas con las ventas. El sistema deberá tener al menos 1 venta por defecto. Los métodos necesarios para este servicio deben incluir todas las operaciones del CRUD.</li>
+                <li>Existirá un servicio RESTful llamado "Platos" con todas las operaciones relacionadas con los platos. El sistema deberá tener al menos 1 plato por defecto. Además, cada plato deberá tener un campo que identifique su identificación, y un plato puede tener muchas ventas. Los métodos necesarios para este servicio deben incluir todas las operaciones del CRUD.</li>
+                <li>Existirá un servicio RESTful llamado "Reportes" con todas las operaciones relacionadas con las ventas. En este servicio se podrán solicitar diferentes tipos de reportes, como ventas del mes, ventas de un día específico o en un rango de tiempo determinado, y los platos más vendidos en un mes. Los métodos necesarios para este servicio deben incluir todas las operaciones necesarias para generar los reportes solicitados.</li>
+            </ol>
+            <!-- Agregar más detalles y requerimientos del Proyecto 2 aquí -->
+        </div>
+    </div>
+
+    <!-- Proyecto 3 -->
+    <div class="card mb-3">
+        <div class="card-header">
+            <h2>Proyecto 3</h2>
+        </div>
+        <div class="card-body">
+            <p>
+                En este proyecto se debe utilizar la herramienta de desarrollo Visual Studio y el lenguaje de programación C#. Será un proyecto web con MVC, servicios web API.
+                Para este proyecto se requiere que utilicen programación orientada a objetos. Es decir lo que viajará como parámetro entre todos los métodos serán objetos.
+                Los datos aún serán almacenados en base de datos SQL Express que se encuentra lista y funcionando en su servidor virtual.
+                Encontrará que además se agregará funcionalidad al sitio web.
+                Si utiliza otro software para implementar el proyecto, se calificará con una nota máxima de 20 puntos sobre 100.
+                Si el proyecto no se puede ejecutar en la máquina virtual, no compila o da error que impide usar las funcionalidades principales, el proyecto se calificará con una nota máxima de 20 puntos sobre 100.
+            </p>
+            <p>
+                Uso Interno
+                El sistema ahora va a implementar servicios de base de datos. Deberá definir el esquema de base de datos llegando al menos a la segunda forma normal.
+                Recuerde que debe entregar el script de base de datos o el archivo de respaldo, porque las bases de datos que cree en el servidor virtual no son persistentes y se pierden.
+            </p>
+            <h3>Requerimientos del sistema:</h3>
+            <ul>
+                <li>El sistema debe permitir agregar, modificar y eliminar clientes, platos, ventas y reservas.</li>
+                <li>El sistema debe implementar servicios RESTful para cada entidad, con todas las operaciones del CRUD.</li>
+                <li>El sistema debe implementar el servicio RESTful "Reportes" para generar diferentes tipos de reportes, como ventas del mes, ventas de un día específico o en un rango de tiempo determinado, y los platos más vendidos en un mes.</li>
+            </ul>
+            <h3>Estructura de la base de datos:</h3>
+            <ul>
+                <li>Tabla "Clientes": campos para el ID, nombre, apellido, email y privilegio de cada cliente.</li>
+                <li>Tabla "Platos": campos para el nombre, la descripción, la imagen, el precio y la categoría de cada plato.</li>
+                <li>Tabla "Ventas": campos para el número de orden, la fecha y hora de la venta, el nombre del plato vendido y la cantidad vendida.</li>
+                <li>Tabla "Reservas": campos para el número de reserva, la fecha y hora de la reserva, el nombre del cliente, el número de personas en la reserva y la fecha y hora de la reserva.</li>
+            </ul>
+            <!-- Agregar más detalles y requerimientos del Proyecto 3 aquí -->
+        </div>
+    </div>
+</div>

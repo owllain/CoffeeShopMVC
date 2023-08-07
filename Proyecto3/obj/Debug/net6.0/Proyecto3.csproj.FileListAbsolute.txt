@@ -1,0 +1,102 @@
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.csproj.AssemblyReference.cache
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.AssemblyInfoInputs.cache
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.AssemblyInfo.cs
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.csproj.CoreCompileInputs.cache
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.RazorAssemblyInfo.cache
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.RazorAssemblyInfo.cs
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\bin\Debug\net6.0\appsettings.json
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\bin\Debug\net6.0\Proyecto3.staticwebassets.runtime.json
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\bin\Debug\net6.0\Proyecto3.exe
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\bin\Debug\net6.0\Proyecto3.deps.json
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\bin\Debug\net6.0\Proyecto3.runtimeconfig.json
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\bin\Debug\net6.0\Proyecto3.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\bin\Debug\net6.0\Proyecto3.pdb
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\obj\Debug\net6.0\staticwebassets\msbuild.Proyecto3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\obj\Debug\net6.0\staticwebassets\msbuild.build.Proyecto3.props
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto3.props
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Proyecto3.props
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\obj\Debug\net6.0\scopedcss\bundle\Proyecto3.styles.css
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\obj\Debug\net6.0\scopedcss\projectbundle\Proyecto3.bundle.scp.css
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.csproj.CopyComplete
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\obj\Debug\net6.0\refint\Proyecto3.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.pdb
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.genruntimeconfig.cache
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\obj\Debug\net6.0\ref\Proyecto3.dll
+C:\Users\tvlin\OneDrive\Documentos\UNED\2023\Segundo Cuatrimestre\Fundamentos de programación web\Trabajos\Proyecto3\Proyecto3\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\bin\Debug\net6.0\appsettings.json
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\bin\Debug\net6.0\Proyecto3.staticwebassets.runtime.json
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\bin\Debug\net6.0\Proyecto3.exe
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\bin\Debug\net6.0\Proyecto3.deps.json
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\bin\Debug\net6.0\Proyecto3.runtimeconfig.json
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\bin\Debug\net6.0\Proyecto3.dll
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\bin\Debug\net6.0\Proyecto3.pdb
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.csproj.AssemblyReference.cache
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.AssemblyInfoInputs.cache
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.AssemblyInfo.cs
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.csproj.CoreCompileInputs.cache
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.RazorAssemblyInfo.cache
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.RazorAssemblyInfo.cs
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\obj\Debug\net6.0\staticwebassets\msbuild.Proyecto3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\obj\Debug\net6.0\staticwebassets\msbuild.build.Proyecto3.props
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto3.props
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Proyecto3.props
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\obj\Debug\net6.0\scopedcss\bundle\Proyecto3.styles.css
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\obj\Debug\net6.0\scopedcss\projectbundle\Proyecto3.bundle.scp.css
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.csproj.CopyComplete
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.dll
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\obj\Debug\net6.0\refint\Proyecto3.dll
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.pdb
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.genruntimeconfig.cache
+C:\Users\0116260532\Desktop\Proyecto3\Proyecto3\obj\Debug\net6.0\ref\Proyecto3.dll
+Z:\Proyecto3\Proyecto3\bin\Debug\net6.0\appsettings.Development.json
+Z:\Proyecto3\Proyecto3\bin\Debug\net6.0\appsettings.json
+Z:\Proyecto3\Proyecto3\bin\Debug\net6.0\Proyecto3.staticwebassets.runtime.json
+Z:\Proyecto3\Proyecto3\bin\Debug\net6.0\Proyecto3.exe
+Z:\Proyecto3\Proyecto3\bin\Debug\net6.0\Proyecto3.deps.json
+Z:\Proyecto3\Proyecto3\bin\Debug\net6.0\Proyecto3.runtimeconfig.json
+Z:\Proyecto3\Proyecto3\bin\Debug\net6.0\Proyecto3.dll
+Z:\Proyecto3\Proyecto3\bin\Debug\net6.0\Proyecto3.pdb
+Z:\Proyecto3\Proyecto3\bin\Debug\net6.0\Newtonsoft.Json.dll
+Z:\Proyecto3\Proyecto3\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+Z:\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.csproj.AssemblyReference.cache
+Z:\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.AssemblyInfoInputs.cache
+Z:\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.AssemblyInfo.cs
+Z:\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.csproj.CoreCompileInputs.cache
+Z:\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.MvcApplicationPartsAssemblyInfo.cache
+Z:\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.RazorAssemblyInfo.cache
+Z:\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.RazorAssemblyInfo.cs
+Z:\Proyecto3\Proyecto3\obj\Debug\net6.0\staticwebassets\msbuild.Proyecto3.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\Proyecto3\Proyecto3\obj\Debug\net6.0\staticwebassets\msbuild.build.Proyecto3.props
+Z:\Proyecto3\Proyecto3\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto3.props
+Z:\Proyecto3\Proyecto3\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Proyecto3.props
+Z:\Proyecto3\Proyecto3\obj\Debug\net6.0\staticwebassets.pack.json
+Z:\Proyecto3\Proyecto3\obj\Debug\net6.0\staticwebassets.build.json
+Z:\Proyecto3\Proyecto3\obj\Debug\net6.0\staticwebassets.development.json
+Z:\Proyecto3\Proyecto3\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+Z:\Proyecto3\Proyecto3\obj\Debug\net6.0\scopedcss\bundle\Proyecto3.styles.css
+Z:\Proyecto3\Proyecto3\obj\Debug\net6.0\scopedcss\projectbundle\Proyecto3.bundle.scp.css
+Z:\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.csproj.CopyComplete
+Z:\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.dll
+Z:\Proyecto3\Proyecto3\obj\Debug\net6.0\refint\Proyecto3.dll
+Z:\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.pdb
+Z:\Proyecto3\Proyecto3\obj\Debug\net6.0\Proyecto3.genruntimeconfig.cache
+Z:\Proyecto3\Proyecto3\obj\Debug\net6.0\ref\Proyecto3.dll

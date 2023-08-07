@@ -1,0 +1,29 @@
+﻿@model Proyecto3.Models.Entities.Cliente
+
+<h1>Crear Cliente</h1>
+
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Nombre">Nombre</label>
+        <input asp-for="Nombre" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Apellido">Apellido</label>
+        <input asp-for="Apellido" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Email">Email</label>
+        <input asp-for="Email" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Privilegio">Privilegio</label>
+        <select asp-for="Privilegio" class="form-control">
+            <option value="Usuario">Usuario</option>
+            <option value="Administrador">Administrador</option>
+        </select>
+    </div>
+    <div class="text-center mt-3">
+        <button type="submit" class="btn btn-primary mr-2">Guardar</button>
+        <a class="btn btn-secondary" asp-action="Index">Volver</a>
+    </div>
+</form>

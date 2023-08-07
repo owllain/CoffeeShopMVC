@@ -1,0 +1,58 @@
+﻿@model Proyecto3.Models.Entities.Reserva
+
+@{
+    ViewData["Title"] = "Editar Reserva";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <h4>Información actual</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-3">Número de Reserva:</dt>
+            <dd class="col-sm-9">@Model.NumeroReserva</dd>
+
+            <dt class="col-sm-3">Fecha y Hora de Reserva:</dt>
+            <dd class="col-sm-9">@Model.FechaHoraReserva</dd>
+
+            <dt class="col-sm-3">Nombre del Cliente:</dt>
+            <dd class="col-sm-9">@Model.NombreCliente</dd>
+
+            <dt class="col-sm-3">Número de Personas:</dt>
+            <dd class="col-sm-9">@Model.NumPersonas</dd>
+        </dl>
+    </div>
+    <div class="col-md-6">
+        <h4>Nueva información</h4>
+        <hr />
+        <form asp-action="Edit" method="post" enctype="multipart/form-data">
+            <input type="hidden" asp-for="NumeroReserva" />
+
+            <div class="form-group">
+                <label asp-for="FechaHoraReserva">Fecha y Hora de Reserva</label>
+                <input asp-for="FechaHoraReserva" class="form-control" type="datetime-local" value="@DateTime.Now.ToString("yyyy-MM-ddTHH:mm:ss.000")" required />
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NombreCliente">Nombre del Cliente</label>
+                <select asp-for="NombreCliente" asp-items="@(new SelectList(ViewBag.Clientes))" class="form-control">
+                    <option value="">Seleccione un cliente</option>
+                </select>
+            </div>
+
+
+
+
+            <div class="form-group">
+                <label asp-for="NumPersonas" class="control-label">Número de Personas:</label>
+                <input asp-for="NumPersonas" class="form-control" required>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Guardar cambios" class="btn btn-primary" />
+                <a class="btn btn-secondary" asp-controller="Reservas" asp-action="Index">Volver</a>
+            </div>
+        </form>
+    </div>
+</div>
